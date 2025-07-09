@@ -18,7 +18,7 @@ TextUtils is a simple React-based text editor app that allows users to manipulat
 
 - React (Functional Components + Hooks)
 - JavaScript (ES6+)
-- Bootstrap CSS for styling (assumed from class names)
+- Bootstrap CSS for styling
 
 ## Getting Started
 
