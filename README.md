@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TextUtils - React Text Editor
 
 TextUtils is a simple React-based text editor app that allows users to manipulate text with various utility functions. It supports converting text to uppercase, lowercase, capitalizing sentences, removing extra spaces, reversing text, copying text, and clearing the textarea. The app also provides a summary including word count, character count, line count, and estimated reading time.
@@ -55,5 +56,4 @@ Feel free to fork the project and create pull requests.
 
 License
 MIT License
-
 
